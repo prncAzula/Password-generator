@@ -1,7 +1,7 @@
 # Password-generator
-password generator low base coded not much effort lol
+password generator with not much effort
 
-20 min work idk enjoy and edit as much as you want.
+20 min work, enjoy and edit as much as you want.
 
 Good Luck! 
 and much fun by editing if you want.
